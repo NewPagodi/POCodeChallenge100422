@@ -1,7 +1,6 @@
 # POCodeChallenge100422
 
-### (i)Create a function that will test if a string is a valid PIN or not via a
-regular expression.
+### (i)Create a function that will test if a string is a valid PIN or not via a regular expression.
 
 A valid PIN has:
 - Exactly 4 or 6 characters.
@@ -21,10 +20,9 @@ validate(" 4983") ➞ false
 #### Notes
 - Empty strings should return false when tested.
 
+---
 
-
-### (ii) Create a function that checks if a given integer is exactly the
-factorial of an integer or not. true if it is, false otherwise.
+### (ii) Create a function that checks if a given integer is exactly the factorial of an integer or not. true if it is, false otherwise.
 
 #### Examples
 ```
